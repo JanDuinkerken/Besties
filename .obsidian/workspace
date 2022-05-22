@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2.- Planes/Halune/Halune.md",
+            "file": "7.- Notes/21.md",
             "mode": "source",
             "source": false
           }
@@ -17,6 +17,36 @@
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/21.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/20.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":379,\"ch\":6},\"to\":{\"line\":379,\"ch\":6}},\"scroll\":368.5625}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/21.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":6},\"to\":{\"line\":1,\"ch\":6}},\"scroll\":0}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/0.- Besties.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0.6330798479087453}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5.- Artifacts/5.- Artifacts.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
             {
               "leaf": "8d624f424d563377",
               "group": null,
@@ -106,36 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/00.- Be4.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/7.- Notes.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"graph\",\"state\":{}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/0.- Besties.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0.6330798479087453}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/Maggie.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":6.416666666666667}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5.- Artifacts/Loom of Balance.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2.- Planes/Halune/Halune.md",
+                "file": "7.- Notes/21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2.- Planes/Halune/Halune.md",
+                "file": "7.- Notes/21.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -305,15 +305,15 @@
   },
   "active": "8d624f424d563377",
   "lastOpenFiles": [
+    "7.- Notes/21.md",
+    "7.- Notes/20.md",
+    "0.- Besties/0.- Besties.md",
+    "5.- Artifacts/5.- Artifacts.md",
     "2.- Planes/Halune/Halune.md",
     "0.- Besties/Giddyan.md",
     "3.- Races/Dwarves.md",
     "2.- Planes/Halune/Dravania/The Highlands.md",
-    "0.- Besties/0.- Besties.md",
     "1.- NPCs/Calliope.md",
-    "7.- Notes/21.md",
-    "7.- Notes/8.md",
-    "7.- Notes/4.md",
-    "7.- Notes/5.md"
+    "7.- Notes/8.md"
   ]
 }
