@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "7.- Notes/8.md",
+            "file": "7.- Notes/21.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "8d624f424d563377",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/8.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/21.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/8.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "8d624f424d563377",
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"6.- Classes/Paladin.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"6.- Classes/Fighter.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "7.- Notes/8.md",
+                "file": "7.- Notes/21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "7.- Notes/8.md",
+                "file": "7.- Notes/21.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -305,6 +305,7 @@
   },
   "active": "8d624f424d563377",
   "lastOpenFiles": [
+    "7.- Notes/21.md",
     "7.- Notes/8.md",
     "7.- Notes/4.md",
     "7.- Notes/5.md",
@@ -313,7 +314,6 @@
     "0.- Besties/0.- Besties.md",
     "0.- Besties/Maggie.md",
     "5.- Artifacts/Loom of Balance.md",
-    "5.- Artifacts/Ring of Judgement.md",
-    "5.- Artifacts/The Lantern.md"
+    "5.- Artifacts/Ring of Judgement.md"
   ]
 }
