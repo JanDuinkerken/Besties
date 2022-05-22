@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": "plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasWandMagicSparkles",
+      "FasFeatherPointed",
+      "FasGear",
+      "FasPerson",
+      "FasLocationDot"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraPadding": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "z_HowTo": "FasGear",
+  "z_HowTo/Plugins.md": "FasGear",
+  "z_Attachments": "FarImage",
+  "z_Markup": "FasGear",
+  "z_Templates": "FasGear",
+  "z_Bestiary": "FasGear",
+  "0.- Besties": "FasPerson",
+  "1.- NPCs": "FasChild",
+  "3.- Races": "FasFeatherPointed",
+  "4.- Deities": "FasCross",
+  "5.- Artifacts": "FasBuildingColumns",
+  "7.- Notes": "RiFileTextFill",
+  "8.- Rp chat": "RiChat1Fill",
+  "2.- Planes/Halune": "FasLocationDot",
+  "2.- Planes/Feywild": "FasLocationDot",
+  "2.- Planes": "FasLocationDot",
+  "6.- Classes": "FasWandMagicSparkles",
+  "3.- Races/Enemies": "FabOptinMonster"
+}

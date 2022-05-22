@@ -1,0 +1,803 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Gregorian Calendar",
+      "description": "A calendar for the real world.",
+      "autoParse": false,
+      "path": "/",
+      "supportTimelines": false,
+      "syncTimelines": false,
+      "timelineTag": "#timeline",
+      "static": {
+        "displayDayNumber": false,
+        "incrementDay": true,
+        "displayMoons": true,
+        "firstWeekDay": 1,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Sunday",
+            "id": "ID_19ea684b4a08"
+          },
+          {
+            "type": "day",
+            "name": "Monday",
+            "id": "ID_2928b90ab949"
+          },
+          {
+            "type": "day",
+            "name": "Tuesday",
+            "id": "ID_0ad9a8f9e95b"
+          },
+          {
+            "type": "day",
+            "name": "Wednesday",
+            "id": "ID_195a4b290bc9"
+          },
+          {
+            "type": "day",
+            "name": "Thursday",
+            "id": "ID_abe8c89b0999"
+          },
+          {
+            "type": "day",
+            "name": "Friday",
+            "id": "ID_2b5b8a79fa4a"
+          },
+          {
+            "type": "day",
+            "name": "Saturday",
+            "id": "ID_1a78cb79c8cb"
+          }
+        ],
+        "months": [
+          {
+            "name": "January",
+            "type": "month",
+            "length": 31,
+            "id": "ID_e9997a780b3a"
+          },
+          {
+            "name": "February",
+            "type": "month",
+            "length": 28,
+            "id": "ID_b8c9ebeb0b89"
+          },
+          {
+            "name": "March",
+            "type": "month",
+            "length": 31,
+            "id": "ID_b83bda2b9be8"
+          },
+          {
+            "name": "April",
+            "type": "month",
+            "length": 30,
+            "id": "ID_29baea7b28ab"
+          },
+          {
+            "name": "May",
+            "type": "month",
+            "length": 31,
+            "id": "ID_6a3899fad909"
+          },
+          {
+            "name": "June",
+            "type": "month",
+            "length": 30,
+            "id": "ID_384aeb1afa8a"
+          },
+          {
+            "name": "July",
+            "type": "month",
+            "length": 31,
+            "id": "ID_48b8cba87b8a"
+          },
+          {
+            "name": "August",
+            "type": "month",
+            "length": 31,
+            "id": "ID_fa0b1a6bab8a"
+          },
+          {
+            "name": "September",
+            "type": "month",
+            "length": 30,
+            "id": "ID_da880b8af849"
+          },
+          {
+            "name": "October",
+            "type": "month",
+            "length": 31,
+            "id": "ID_babba8186968"
+          },
+          {
+            "name": "November",
+            "type": "month",
+            "length": 30,
+            "id": "ID_da582bfaf9b9"
+          },
+          {
+            "name": "December",
+            "type": "month",
+            "length": 31,
+            "id": "ID_ba1bab4a3a28"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 29.530588853,
+            "offset": 9.24953,
+            "faceColor": "#ffffff",
+            "shadowColor": "#000000",
+            "id": "ID_a9ab186b1819"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Leap Day",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 4
+              },
+              {
+                "ignore": false,
+                "exclusive": true,
+                "interval": 100
+              },
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 400
+              }
+            ],
+            "offset": 0,
+            "timespan": 1,
+            "intercalary": false,
+            "id": "ID_b91ad86a887a"
+          }
+        ],
+        "eras": [
+          {
+            "name": "Before Christ",
+            "description": "",
+            "format": "Year {{abs_year}} - {{era_name}}",
+            "start": {
+              "year": -1,
+              "month": 0,
+              "day": 31
+            }
+          },
+          {
+            "name": "Anno Domini",
+            "description": "",
+            "format": "Year {{year}} - {{era_name}}",
+            "start": {
+              "year": 1,
+              "month": 0,
+              "day": 1
+            }
+          }
+        ],
+        "offset": 0
+      },
+      "current": {
+        "year": 2022,
+        "month": 4,
+        "day": 21
+      },
+      "events": [
+        {
+          "name": "Summer Solstice",
+          "description": "At the summer solstice, the Sun travels the longest path through the sky, and that day therefore has the most daylight.",
+          "id": "824599",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null
+        },
+        {
+          "name": "Winter Solstice",
+          "description": "The winter solstice marks the shortest day and longest night of the year, when the sun is at its lowest arc in the sky.",
+          "id": "824600",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null
+        },
+        {
+          "name": "Spring Equinox",
+          "description": "The equinox marks the day and the night is equally as long.",
+          "id": "824601",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null
+        },
+        {
+          "name": "Autumn Equinox",
+          "description": "The equinox marks the day and the night is equally as long.",
+          "id": "824602",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": null
+        },
+        {
+          "name": "Paschal Full Moon",
+          "description": "The first full moon after march 21st, which is considered the fixed date for the spring equinox.",
+          "id": "824604",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays"
+        },
+        {
+          "name": "Easter",
+          "description": "Easter is considered the most important feast for Christians, celebrating the resurrection of Christ. It is classed as a moveable feast occurring on the first full moon after the spring equinox, which is considered to be fixed at March 21st for the sake of computing the date.",
+          "id": "824605",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays"
+        },
+        {
+          "name": "Easter Monday",
+          "description": "The Monday following the Easter Sunday is often considered part of the Easter Celebration and is a day off in many countries with a strong Christian tradition.",
+          "id": "824606",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays"
+        },
+        {
+          "name": "Good Friday",
+          "description": "Good Friday is the Friday preceding Easter. It comemmorates the crucifixion of Christ according to the Bible.",
+          "id": "824607",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays"
+        },
+        {
+          "name": "Pentecost",
+          "description": "Celebrated exactly 50 days after Easter, Pentecost is the celebration of the Holy Spirit appearing before the Apostles as described in the Bible.",
+          "id": "824608",
+          "note": null,
+          "date": {
+            "day": null,
+            "year": null,
+            "month": null
+          },
+          "category": "christian-holidays"
+        },
+        {
+          "name": "New Year's Day",
+          "description": "New Year's Day marks the start of a new year on the Gregorian Calendar. It starts when the clock strikes midnight and is often celebrated with fireworks, champagne and kissing.",
+          "id": "824609",
+          "note": null,
+          "date": {
+            "day": 1,
+            "year": null,
+            "month": 0
+          },
+          "category": "secular-holidays"
+        },
+        {
+          "name": "Valentine's Day",
+          "description": "Valentine's day is a celebration of love and romance that is popular across the world. Many more cynically minded people mostly consider it an attempt to monetize the expectation of romantic gestures on the holiday through gift cards, flowers, chocolate and dates.",
+          "id": "824610",
+          "note": null,
+          "date": {
+            "day": 14,
+            "year": null,
+            "month": 1
+          },
+          "category": "secular-holidays"
+        },
+        {
+          "name": "Halloween",
+          "description": "Halloween is holiday popular in the US, Canada and Ireland that has gradually been adopted by more and more countries. It is often celebrated by people dressing up, usually as something scary. Children will often go from door to door shouting \"trick or treat\" in the hopes of receiving candy, while adults tend to go to parties.",
+          "id": "824611",
+          "note": null,
+          "date": {
+            "day": 31,
+            "year": null,
+            "month": 9
+          },
+          "category": "secular-holidays"
+        },
+        {
+          "name": "Christmas",
+          "description": "Christmas is a Christian holiday celebrating the birth of Christ. Due to a combination of marketability and long lasting traditions it is popular even among many non-Christians, especially in countries that have a strong Christian tradition.",
+          "id": "824603",
+          "note": null,
+          "date": {
+            "day": 25,
+            "year": null,
+            "month": 11
+          },
+          "category": "christian-holidays"
+        },
+        {
+          "name": "Introduction of the Gregorian Calendar",
+          "description": "On this day in 1582 the Gregorian calendar was officially introduced, following Thursday October 4th on the Julian Calendar",
+          "id": "824614",
+          "note": null,
+          "date": {
+            "day": 15,
+            "year": 1582,
+            "month": 9
+          },
+          "category": "historical-events"
+        },
+        {
+          "name": "Work on the first version of this calendar started.",
+          "description": "Aecius started work on the first version Gregorian Calendar for Fantasy Calendar on this day.",
+          "id": "824612",
+          "note": null,
+          "date": {
+            "day": 23,
+            "year": 2019,
+            "month": 5
+          },
+          "category": "miscellaneous-events"
+        },
+        {
+          "name": "Work on this version of the Gregorian Calendar started.",
+          "description": "On this day, Aecius started to rework the Gregorian Calendar from scratch to make it work with the updates Wasp and Alex implemented since the summer of 2019.",
+          "id": "824613",
+          "note": null,
+          "date": {
+            "day": 21,
+            "year": 2020,
+            "month": 0
+          },
+          "category": "miscellaneous-events"
+        }
+      ],
+      "id": "ID_d8ebcb78ca78",
+      "categories": [
+        {
+          "name": "Natural Events",
+          "id": "natural-events",
+          "color": "#2E7D32"
+        },
+        {
+          "name": "Christian Holidays",
+          "id": "christian-holidays",
+          "color": "#9b2c2c"
+        },
+        {
+          "name": "Secular Holidays",
+          "id": "secular-holidays",
+          "color": "#0D47A1"
+        },
+        {
+          "name": "Historical Events",
+          "id": "historical-events",
+          "color": "#455A64"
+        },
+        {
+          "name": "Miscellaneous Events",
+          "id": "miscellaneous-events",
+          "color": "#0288D1"
+        }
+      ],
+      "date": 1652997603072
+    },
+    {
+      "name": "Halune's Calendar",
+      "description": null,
+      "id": null,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Wealsun ",
+            "id": "ID_9968a858793a"
+          },
+          {
+            "type": "day",
+            "name": "Fireseek ",
+            "id": "ID_68794ae84bf8"
+          },
+          {
+            "type": "day",
+            "name": "Readying ",
+            "id": "ID_5a888ae8384a"
+          },
+          {
+            "type": "day",
+            "name": "Coldeven ",
+            "id": "ID_a94b89e99b7b"
+          },
+          {
+            "type": "day",
+            "name": "Planting ",
+            "id": "ID_b82b5a9b9bfa"
+          },
+          {
+            "type": "day",
+            "name": "Flocktime ",
+            "id": "ID_2bfaaaf92978"
+          },
+          {
+            "type": "day",
+            "name": "Harvester",
+            "id": "ID_aa1bd9ab59f8"
+          }
+        ],
+        "months": [
+          {
+            "type": "month",
+            "name": "Aries",
+            "length": 30,
+            "id": "ID_3919c8aaab9a"
+          },
+          {
+            "type": "month",
+            "name": "Taurus",
+            "length": 30,
+            "id": "ID_08c95a5bdaa9"
+          },
+          {
+            "type": "month",
+            "name": "Gemini",
+            "length": 30,
+            "id": "ID_dbab2828b99b"
+          },
+          {
+            "type": "month",
+            "name": "Cancer",
+            "length": 30,
+            "id": "ID_dbb9e818a898"
+          },
+          {
+            "type": "month",
+            "name": "Leo",
+            "length": 30,
+            "id": "ID_4b0949eac92b"
+          },
+          {
+            "type": "month",
+            "name": "Virgo",
+            "length": 30,
+            "id": "ID_2a9a28198a09"
+          },
+          {
+            "type": "month",
+            "name": "Libra",
+            "length": 30,
+            "id": "ID_7bf918996839"
+          },
+          {
+            "type": "month",
+            "name": "Scorpio",
+            "length": 30,
+            "id": "ID_bacaab28cbf8"
+          },
+          {
+            "type": "month",
+            "name": "Sagittarius",
+            "length": 30,
+            "id": "ID_fbf8e98bc9eb"
+          },
+          {
+            "type": "month",
+            "name": "Capricorn",
+            "length": 30,
+            "id": "ID_2bb909f93a18"
+          },
+          {
+            "type": "month",
+            "name": "Aquarius",
+            "length": 30,
+            "id": "ID_6848d8b8b9c9"
+          },
+          {
+            "type": "month",
+            "name": "Pisces",
+            "length": 30,
+            "id": "ID_db0be98a6919"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Halune's moon",
+            "cycle": 7,
+            "offset": null,
+            "faceColor": "#ff0000",
+            "shadowColor": "#000",
+            "id": "ID_ea193ad86a89"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": true,
+        "leapDays": [],
+        "eras": []
+      },
+      "current": {
+        "year": 2001,
+        "month": 1,
+        "day": 21
+      },
+      "events": [
+        {
+          "name": "Needfest",
+          "description": null,
+          "date": {
+            "month": 0,
+            "day": 23,
+            "year": null
+          },
+          "id": "ID_6b287b0aaaa9",
+          "note": null,
+          "category": "ID_eab81978d92b",
+          "end": {
+            "year": null,
+            "month": 0,
+            "day": 30
+          }
+        },
+        {
+          "name": "Patchfest",
+          "description": null,
+          "date": {
+            "month": 1,
+            "day": 23,
+            "year": null
+          },
+          "id": "ID_f8e998f9d9ea",
+          "note": null,
+          "category": "ID_eab81978d92b",
+          "end": {
+            "year": null,
+            "month": 1,
+            "day": 30
+          }
+        },
+        {
+          "name": "Growfest",
+          "description": null,
+          "date": {
+            "month": 2,
+            "day": 23,
+            "year": null
+          },
+          "id": "ID_b8fbe8698a79",
+          "note": null,
+          "category": "ID_eab81978d92b",
+          "end": {
+            "year": null,
+            "month": 2,
+            "day": 30
+          }
+        },
+        {
+          "name": "Goodfest",
+          "description": null,
+          "date": {
+            "month": 3,
+            "day": 23,
+            "year": null
+          },
+          "id": "ID_7ac8d9184a2a",
+          "note": null,
+          "category": "ID_eab81978d92b",
+          "end": {
+            "year": null,
+            "month": 3,
+            "day": 30
+          }
+        },
+        {
+          "name": "Earthfest",
+          "description": null,
+          "date": {
+            "month": 4,
+            "day": 23,
+            "year": null
+          },
+          "id": "ID_9a4acac8e97b",
+          "note": null,
+          "category": "ID_eab81978d92b",
+          "end": {
+            "year": null,
+            "month": 4,
+            "day": 30
+          }
+        },
+        {
+          "name": "Sunfest",
+          "description": null,
+          "date": {
+            "month": 5,
+            "day": 23,
+            "year": null
+          },
+          "id": "ID_49384a8aa848",
+          "note": null,
+          "category": "ID_eab81978d92b",
+          "end": {
+            "year": null,
+            "month": 5,
+            "day": 30
+          }
+        },
+        {
+          "name": "Brewfest",
+          "description": null,
+          "date": {
+            "month": 6,
+            "day": 23,
+            "year": null
+          },
+          "id": "ID_aa9a997a0aca",
+          "note": null,
+          "category": "ID_eab81978d92b",
+          "end": {
+            "year": null,
+            "month": 6,
+            "day": 30
+          }
+        },
+        {
+          "name": "Richfest",
+          "description": null,
+          "date": {
+            "month": 7,
+            "day": 23,
+            "year": null
+          },
+          "id": "ID_7acb49fa08fb",
+          "note": null,
+          "category": "ID_eab81978d92b",
+          "end": {
+            "year": null,
+            "month": 7,
+            "day": 30
+          }
+        },
+        {
+          "name": "Riverfest",
+          "description": null,
+          "date": {
+            "month": 8,
+            "day": 23,
+            "year": null
+          },
+          "id": "ID_cba93868c998",
+          "note": null,
+          "category": "ID_eab81978d92b",
+          "end": {
+            "year": null,
+            "month": 8,
+            "day": 30
+          }
+        },
+        {
+          "name": "Firefest",
+          "description": null,
+          "date": {
+            "month": 9,
+            "day": 23,
+            "year": null
+          },
+          "id": "ID_991bc8c928ca",
+          "note": null,
+          "category": "ID_eab81978d92b",
+          "end": {
+            "year": null,
+            "month": 9,
+            "day": 30
+          }
+        },
+        {
+          "name": "Starfest",
+          "description": null,
+          "date": {
+            "month": 10,
+            "day": 23,
+            "year": null
+          },
+          "id": "ID_d90908c9485a",
+          "note": null,
+          "category": "ID_eab81978d92b",
+          "end": {
+            "year": null,
+            "month": 10,
+            "day": 30
+          }
+        },
+        {
+          "name": "Moonfest",
+          "description": null,
+          "date": {
+            "month": 11,
+            "day": 23,
+            "year": null
+          },
+          "id": "ID_68aaf8782979",
+          "note": null,
+          "category": "ID_eab81978d92b",
+          "end": {
+            "year": null,
+            "month": 11,
+            "day": 30
+          }
+        }
+      ],
+      "categories": [
+        {
+          "id": "ID_eab81978d92b",
+          "color": "#1fa34f",
+          "name": "End of decan"
+        }
+      ],
+      "autoParse": false,
+      "path": "/",
+      "supportTimelines": false,
+      "syncTimelines": true,
+      "timelineTag": "#timeline"
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_d8ebcb78ca78",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": false,
+    "advanced": true
+  },
+  "showIntercalary": false,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}

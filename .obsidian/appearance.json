@@ -1,0 +1,11 @@
+{
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "Iterative Rainbow Folder Backgrounds",
+    "Iterative Rainbow Folder Icons",
+    "Theme - All Alternate Themes",
+    "MyFonts"
+  ],
+  "theme": "moonstone",
+  "baseFontSize": 16
+}

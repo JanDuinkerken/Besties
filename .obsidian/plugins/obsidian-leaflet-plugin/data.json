@@ -1,0 +1,354 @@
+{
+  "mapMarkers": [
+    {
+      "id": "leaflet-map ",
+      "lastAccessed": 1653083367798,
+      "markers": [
+        {
+          "id": "ID_3b3829182bba",
+          "type": "default",
+          "loc": [
+            -1.5859375,
+            1.4140625
+          ],
+          "layer": "!%5B%5BPasted%20image%2020220516204907.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9838da6a2a4a",
+          "type": "Cities",
+          "loc": [
+            -1.775390625,
+            1.2431640625
+          ],
+          "link": "Willowfey",
+          "layer": "!%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_392aebfbabe8",
+          "type": "Cities",
+          "loc": [
+            -2.50177001953125,
+            2.73828125
+          ],
+          "link": "Valeran",
+          "layer": "!%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_78ba3bc9cbf8",
+          "type": "Cities",
+          "loc": [
+            -2.291015625,
+            2.46875
+          ],
+          "link": "Solus",
+          "layer": "!%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a8a7bbaa8fb",
+          "type": "Cities",
+          "loc": [
+            -1.953125,
+            2.77734375
+          ],
+          "link": "Old York",
+          "layer": "!%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4ac9498a3928",
+          "type": "Cities",
+          "loc": [
+            -1.50762939453125,
+            1.1328125
+          ],
+          "link": "New Dravania",
+          "layer": "!%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2a9a9939d978",
+          "type": "Cities",
+          "loc": [
+            -1.09356689453125,
+            1.130859375
+          ],
+          "link": "The Highlands",
+          "layer": "!%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b8a4aa96a89",
+          "type": "Cities",
+          "loc": [
+            -1.37109375,
+            0.71875
+          ],
+          "link": "Old Dravania",
+          "layer": "!%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2bdb0bdaba99",
+          "type": "Cities",
+          "loc": [
+            -2.3941650390625,
+            2.08203125
+          ],
+          "link": "Crescent Vale",
+          "layer": "!%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9988c9082a2b",
+          "type": "default",
+          "loc": [
+            -2.6328125,
+            1.328125
+          ],
+          "layer": "%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9b9838ab3b0a",
+          "type": "default",
+          "loc": [
+            -2.02734375,
+            1.4921875
+          ],
+          "layer": "%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_38ebc81a1809",
+          "type": "Cities",
+          "loc": [
+            -2.3017578125,
+            2.630859375
+          ],
+          "link": "Troll'd Lake",
+          "layer": "%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_49d9897ba8c9",
+          "type": "Cities",
+          "loc": [
+            -1.9208984375,
+            0.751953125
+          ],
+          "link": "Idyleshire",
+          "layer": "%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bb0b39da2ac8",
+          "type": "Cities",
+          "loc": [
+            -2.3876953125,
+            2.3984375
+          ],
+          "link": "Ul'dorme",
+          "layer": "%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_faebca88f91b",
+          "type": "Cities",
+          "loc": [
+            -2.0888671875,
+            2.603515625
+          ],
+          "link": "Dorado",
+          "layer": "%5B%5BHalune.png%5D%5D%20",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
+  "defaultMarker": {
+    "type": "default",
+    "iconName": "map-marker",
+    "color": "#212121",
+    "transform": {
+      "size": 6,
+      "x": 0,
+      "y": -2
+    }
+  },
+  "markerIcons": [
+    {
+      "type": "Cities",
+      "iconName": "map-marker-alt",
+      "color": "#ff0000",
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
+  "color": "#dddddd",
+  "lat": 39.983334,
+  "long": -82.98333,
+  "notePreview": false,
+  "layerMarkers": true,
+  "previousVersion": "5.0.3",
+  "version": {
+    "major": 5,
+    "minor": 0,
+    "patch": 3
+  },
+  "warnedAboutMapMarker": false,
+  "copyOnClick": false,
+  "displayMarkerTooltips": "hover",
+  "displayOverlayTooltips": true,
+  "configDirectory": null,
+  "mapViewEnabled": true,
+  "mapViewParameters": {
+    "darkMode": "true ",
+    "defaultZoom": "7",
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px ",
+    "image": "[[Halune.png]] ",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Halune.png]] "
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": "10 ",
+    "minZoom": "1 ",
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": "1 marker",
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "leaflet-map ",
+    "lat": "50 ",
+    "long": "50 ",
+    "unit": "meters ",
+    "filterTag": []
+  },
+  "enableDraw": true,
+  "defaultUnitType": "metric",
+  "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultTileDark": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+  "defaultAttribution": "Map tiles by <a href=\"http://stamen.com\">Stamen Design</a>, under <a href=\"http://creativecommons.org/licenses/by/3.0\">CC BY 3.0</a>. Data by <a href=\"http://openstreetmap.org\">OpenStreetMap</a>, under <a href=\"http://www.openstreetmap.org/copyright\">ODbL</a>."
+}
