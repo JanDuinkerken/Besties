@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0.- Besties/0.- Besties.md",
+            "file": "0.- Besties/Giddyan.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,26 @@
             {
               "leaf": "8d624f424d563377",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/0.- Besties.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/Giddyan.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3.- Races/Dwarves.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2.- Planes/Halune/Dravania/The Highlands.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/0.- Besties.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":0.6330798479087453}"
             },
             {
               "leaf": "8d624f424d563377",
@@ -118,24 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5.- Artifacts/Ring of Judgement.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5.- Artifacts/The Lantern.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5.- Artifacts/The Tube.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"5.- Artifacts/The Lantern.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.- Besties/0.- Besties.md",
+                "file": "0.- Besties/Giddyan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0.- Besties/0.- Besties.md",
+                "file": "0.- Besties/Giddyan.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -305,15 +305,15 @@
   },
   "active": "8d624f424d563377",
   "lastOpenFiles": [
+    "0.- Besties/Giddyan.md",
+    "3.- Races/Dwarves.md",
+    "2.- Planes/Halune/Dravania/The Highlands.md",
     "0.- Besties/0.- Besties.md",
     "1.- NPCs/Calliope.md",
     "7.- Notes/21.md",
     "7.- Notes/8.md",
     "7.- Notes/4.md",
     "7.- Notes/5.md",
-    "7.- Notes/00.- Be4.md",
-    "7.- Notes/7.- Notes.md",
-    "0.- Besties/Maggie.md",
-    "5.- Artifacts/Loom of Balance.md"
+    "7.- Notes/00.- Be4.md"
   ]
 }
