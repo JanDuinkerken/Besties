@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.- NPCs/Levi/Levi.md",
+            "file": "0.- Besties/Venneer.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,74 @@
             {
               "leaf": "8d624f424d563377",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1.- NPCs/Levi/Levi.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/Venneer.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/Varian.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":12.314192401504815}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/January.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"scroll\":11.29016336993534}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/Clarissa.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":14.26521017699115}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/Briss.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":11.523925825418363}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/Besties.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/0.- Besties.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/Robert.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":12},\"to\":{\"line\":5,\"ch\":12}}}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/0.- Besties.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":3},\"to\":{\"line\":4,\"ch\":3}}}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/20.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/21.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/00.- Be4.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "8d624f424d563377",
@@ -39,19 +105,19 @@
               "leaf": "8d624f424d563377",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/19.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "8d624f424d563377",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/18.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "8d624f424d563377",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/17.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "8d624f424d563377",
@@ -63,78 +129,12 @@
               "leaf": "8d624f424d563377",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/15.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/14.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/13.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             },
             {
               "leaf": "8d624f424d563377",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/14.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/13.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"scroll\":94.64583333333333}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/12.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/11.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/10.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/9.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/8.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/7.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/6.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/5.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{}"
             }
           ]
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.- NPCs/Levi/Levi.md",
+                "file": "0.- Besties/Venneer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.- NPCs/Levi/Levi.md",
+                "file": "0.- Besties/Venneer.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -305,15 +305,15 @@
   },
   "active": "8d624f424d563377",
   "lastOpenFiles": [
-    "1.- NPCs/Levi/Levi.md",
-    "7.- Notes/21.md",
+    "0.- Besties/Venneer.md",
+    "0.- Besties/Varian.md",
+    "0.- Besties/January.md",
+    "0.- Besties/Clarissa.md",
+    "0.- Besties/Briss.md",
+    "0.- Besties/Besties.md",
+    "0.- Besties/0.- Besties.md",
+    "0.- Besties/Robert.md",
     "7.- Notes/20.md",
-    "7.- Notes/19.md",
-    "7.- Notes/18.md",
-    "7.- Notes/17.md",
-    "7.- Notes/16.md",
-    "7.- Notes/15.md",
-    "7.- Notes/14.md",
-    "7.- Notes/13.md"
+    "7.- Notes/21.md"
   ]
 }

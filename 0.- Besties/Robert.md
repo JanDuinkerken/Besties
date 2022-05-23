@@ -3,6 +3,7 @@ Role: Bestie
 Player: Tony
 Class: Paladin
 Race: Human
+alias: Rober
 ---
 [[0.- Besties]]
 # Robert Perth
