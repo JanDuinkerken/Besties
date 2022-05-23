@@ -1,5 +1,5 @@
 ---
-aliases: Levian
+alias: Levian
 ---
 [[1.- NPCs]]
 # Ser Levian
