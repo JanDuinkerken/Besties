@@ -17,13 +17,13 @@ Because of said accident, Devendra had been unable to cast magic her whole life,
 
 Devendra had an encounter with the [[Godseekers]] whilst travelling with Ser [[Levian]] ([[Levi]]) to a cave in [[Dravania]]. Devendra had been willing to join with the promise of not needing deities to bless her with magic abilities. 
 
-After encountering the [[Besties]] in the caves the [[Godseekers]] had inhabited, Devendra had been subdued. Devendra would later join the party after being healed by Dravanian Scholars. Devendra accompanied the [[Besties]] throughout their trial investigation and after.
+After encountering the besties in the caves the [[Godseekers]] had inhabited, Devendra had been subdued. Devendra would later join the party after being healed by Dravanian Scholars. Devendra accompanied the besties throughout their trial investigation and after.
 
-After the [[Besties]] had acquired the Ring Of Ideals from [[Mother Moth]], Devendra had been trusted to hold it.
+After the besties had acquired the Ring Of Ideals from [[Mother Moth]], Devendra had been trusted to hold it.
 
-Once the [[Besties]] had acquired the Ring of Truth, Devendra had taken it, combining them with the help of the [[Moondog]], Devendra had the [[Ring of Judgement]] in her hands. With her desperation for casting magic, she wore the ring, forcing herself to become a vessel of [[Kwoh]]. 
+Once the besties had acquired the Ring of Truth, Devendra had taken it, combining them with the help of the [[Moondog]], Devendra had the [[Ring of Judgement]] in her hands. With her desperation for casting magic, she wore the ring, forcing herself to become a vessel of [[Kwoh]]. 
 
 Devendra had died by getting shattered after being stabbed by a red knife [[January]] had.
 
 There was implied Mayonnaise between Devendra and [[Clarissa]] Viridi
-Sauce: Off stage scene between [[Besties]] Notes [[8]] and [[9]] 
+Sauce: Off stage scene between besties Notes [[8]] and [[9]] 

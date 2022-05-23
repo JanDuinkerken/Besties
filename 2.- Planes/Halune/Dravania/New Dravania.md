@@ -12,7 +12,7 @@ It turns out the [[Archbishop]] was restraining and weakening [[Ravan]] to extra
 
 ![[New Dravania 2.png]]
 
-The [[besties]] found out about this and stopped him with the help of the [[giants]], killing him and letting [[Levi]] become [[Ravan]]'s succesor.
+The besties found out about this and stopped him with the help of the [[giants]], killing him and letting [[Levi]] become [[Ravan]]'s succesor.
 
 After this the [[giants]] moved in and helped in rebuilding the city, which had been destroyed in the fight against [[Ravan]].
 
