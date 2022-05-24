@@ -8,7 +8,7 @@ Race: Dwarf
 Giddyan Flintheart {.Davek}
 
 ## Description
-Mountain Dwarf (see [[Dwarves]]),  around 5ft tall. Brown hair and eyes. Wears lots of brown, black or grey. Chaotic neutral. a
+Mountain Dwarf (see [[Dwarves]]),  around 5ft tall. Brown hair and eyes. Wears lots of brown, black or grey. Chaotic neutral.
 
 In terms of personality, he is not someone who fully trusts other people from the start. He is friendly and likes meeting people and making new friends because he doesn’t know many people, but he wont really tell you much about himself until he finds you trusty enough.
 
