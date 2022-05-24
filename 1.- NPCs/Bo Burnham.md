@@ -1,7 +1,7 @@
 ---
 alias: Bo
 ---
-[[1.- NPCs]]
+#NPC
 # Bo Burnham
 [[Gillian]]'s brother. 
 

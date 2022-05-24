@@ -1,10 +1,9 @@
 ---
-Role: Bestie
 Player: Koi
 Class: Warlock
 Race: Kyros
 ---
-[[0.- Besties]]
+#Besties
 # Varian
 ## Description
 He is a [[Kyros]], very tall. He is missing one eye, which he has covered with bandages. Wears a cloak.

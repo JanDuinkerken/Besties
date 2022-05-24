@@ -1,4 +1,4 @@
-[[1.- NPCs]]
+#NPC
 # Zion
 [[Estinien]]
 ![[Zion meme.png]]

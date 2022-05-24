@@ -1,2 +1,2 @@
-[[2.- Planes]]
+#Planes
 # Feywild

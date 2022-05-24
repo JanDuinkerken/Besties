@@ -1,10 +1,9 @@
 ---
-Role: Bestie
 Player: Paula
 Class: Rogue
 Race: Tiefling
 ---
-[[0.- Besties]]
+#Besties
 # Magpie
 ## Description
 Green [[tiefling]]

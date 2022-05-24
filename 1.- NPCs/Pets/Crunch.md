@@ -1,4 +1,4 @@
-[[1.- NPCs]]
+#NPC 
 # Crunch
 [[Giddyan]]'s pet giant dog. The first of the [[0.- Besties|besties]] pets.
 

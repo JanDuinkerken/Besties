@@ -1,9 +1,10 @@
 ---
-Role: Bestie
 Player: Koi
 Class: Paladin
 Race: Orc
 ---
+#Besties 
+#NPC
 # Hercules Wonderbread
 He is a very handsome Orc, not very smart.
 

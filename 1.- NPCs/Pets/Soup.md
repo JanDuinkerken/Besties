@@ -1,4 +1,4 @@
-[[1.- NPCs]]
+#NPC 
 # Soup
 [[Maggie]]'s pet dog. She bought him at [[Tooth]]'s Bodega.
 

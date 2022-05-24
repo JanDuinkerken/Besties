@@ -1,4 +1,4 @@
-[[3.- Races]]
+#Races
 # Half Orc
 ## Scarred and Strong
 Half-orcs exhibit a blend of orcish and [[human]] characteristics, and their appearance varies widely. Grayish skin tones and prominent teeth are the most common shared elements among these folk.

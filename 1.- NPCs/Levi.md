@@ -1,7 +1,7 @@
 ---
 alias: Levian
 ---
-[[1.- NPCs]]
+#NPC
 # Ser Levian
 [[Ravan]]
 ![[Levi.png]]

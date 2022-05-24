@@ -1,10 +1,9 @@
 ---
-Role: Bestie
 Player: Roman
 Class: Warlock
 Race: Aarakocra
 ---
-[[0.- Besties]]
+#Besties
 # Lemm
 ## Description
 Red [[Aarakocra]], 5'5 ft tall. Birb.

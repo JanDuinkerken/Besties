@@ -1,4 +1,4 @@
-[[3.- Races]]
+#Races
 # Nymphs
 ## Wild Personality
 ![[Nymph.png]]

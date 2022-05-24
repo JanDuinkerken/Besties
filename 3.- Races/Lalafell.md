@@ -1,4 +1,4 @@
-[[3.- Races]]
+#Races
 # Lalafell
 ## Physical Description
 

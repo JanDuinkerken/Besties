@@ -1,4 +1,4 @@
-[[3.- Races]]
+#Races
 # Elezen
 ## Elegance and Pride
 Long legs, slender bodies, pointed ears and sharp features are all marks of an Elezen. Only rivaling their otherworld appearance is the poise with which they carry themselves. Their tall, thin frames only differ within the race by the colour of their skin.

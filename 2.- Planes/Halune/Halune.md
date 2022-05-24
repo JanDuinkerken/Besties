@@ -1,4 +1,4 @@
-[[2.- Planes]]
+#Planes 
 # Halune
 ```leaflet 
 id: leaflet-map 

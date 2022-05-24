@@ -1,10 +1,9 @@
 ---
-Role: Bestie
 Player: Jan
 Class: Fighter
 Race: Dwarf
 ---
-[[0.- Besties]]
+#Besties
 # Giddyan Flintheart
 Giddyan Flintheart {.Davek}
 

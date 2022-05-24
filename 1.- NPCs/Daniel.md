@@ -1,4 +1,4 @@
-[[1.- NPCs]]
+#NPC
 # Daniel Montague
 [[Devendra's]] Eldest Brother
 

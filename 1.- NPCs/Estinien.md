@@ -1,4 +1,4 @@
-[[1.- NPCs]]
+#NPC
 # Estinien
 [[Zion]]
 

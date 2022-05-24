@@ -1,5 +1,4 @@
-[[3.- Races]]
-[[Enemies]]
+#Enemies
 # Sineaters
 Created by [[Kwoh]].
 ![[Sin Eater 1.png]]

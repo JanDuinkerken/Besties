@@ -1,4 +1,4 @@
-[[1.- NPCs]]
+#NPC
 # Cannon Jonesy
 [[Giddyan]]'s father, thought dead by him since he escaped the village after it had been raided by bandits.
 

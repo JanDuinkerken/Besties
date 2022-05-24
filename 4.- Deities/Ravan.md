@@ -1,3 +1,3 @@
-[[4.- Deities]]
+#Deities
 # Ravan
 [[Dragon]] god

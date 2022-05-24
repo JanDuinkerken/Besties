@@ -1,2 +1,2 @@
-[[4.- Deities]]
+#Spirits
 # The Bargaining

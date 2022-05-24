@@ -1,86 +1,107 @@
 {
   "collapse-filter": true,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "Role: Bestie",
+      "query": "tag:#Besties",
       "color": {
         "a": 1,
-        "rgb": 6084208
+        "rgb": 65322
       }
     },
     {
-      "query": "path:\"1.- NPCs\"",
+      "query": "tag:#NPC",
       "color": {
         "a": 1,
         "rgb": 14069084
       }
     },
     {
-      "query": "path:\"2.- Planes\"",
+      "query": "tag:#Planes",
       "color": {
         "a": 1,
         "rgb": 6056662
       }
     },
     {
-      "query": "path:\"3.- Races\"",
+      "query": "tag:#Races",
       "color": {
         "a": 1,
         "rgb": 14048448
       }
     },
     {
-      "query": "path:\"7.- Notes\"",
+      "query": "tag:#Notes",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 15171198
       }
     },
     {
-      "query": "path:\"4.- Deities\"",
+      "query": "tag:#Deities",
       "color": {
         "a": 1,
         "rgb": 15266649
       }
     },
     {
-      "query": "path:\"5.- Artifacts\"",
+      "query": "tag:#Artifacts",
       "color": {
         "a": 1,
         "rgb": 64511
       }
     },
     {
-      "query": "path:\"6.- Classes\"",
+      "query": "tag:#Classes",
       "color": {
         "a": 1,
         "rgb": 14269416
       }
     },
     {
-      "query": "path:\"8.- Rp chat\"",
+      "query": "tag:#Rp",
       "color": {
         "a": 1,
         "rgb": 7368816
+      }
+    },
+    {
+      "query": "tag:#Halune",
+      "color": {
+        "a": 1,
+        "rgb": 8218166
+      }
+    },
+    {
+      "query": "tag:#Enemies",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#Spirits",
+      "color": {
+        "a": 1,
+        "rgb": 10220521
       }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.18231476918022,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.495860042735043,
   "repelStrength": 9.0625,
   "linkStrength": 0.871928418803419,
   "linkDistance": 199,
-  "scale": 0.6989606412938181,
-  "close": true
+  "scale": 0.397998598680401,
+  "close": false
 }

@@ -1,4 +1,4 @@
-[[6.- Classes]]
+#Classes
 # Rogue
 ## Skill and Precision
 Rogues devote as much effort to mastering the use of a variety of skills as they do to perfecting their combat abilities, giving them a broad expertise that few other characters can match. Many rogues focus on stealth and deception, while others refine the skills that help them in a dungeon environment, such as climbing, finding and disarming traps, and opening locks.

@@ -1,4 +1,4 @@
-[[1.- NPCs]]
+#NPC
 # Gillian Burnham
 [[Bo Burnham]]'s noble brother. He employed the [[0.- Besties|besties]] for protection and to search for relics(see [[5.- Artifacts]]) after he found out his brother was a Godseeker(see [[Godseekers]]) and he could be their next target.
 

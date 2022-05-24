@@ -1,4 +1,4 @@
-[[3.- Races]]
+#Races
 # Dwarves
 ![[Dwarve.png]]
 ## Short and Stout

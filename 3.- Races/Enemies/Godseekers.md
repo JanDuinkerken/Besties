@@ -1,5 +1,4 @@
-[[3.- Races]]
-[[Enemies]]
+#Enemies
 # Godseekers
 Followers of [[Zion]], they wear a golden mask.
 ![[Godseeker.png]]

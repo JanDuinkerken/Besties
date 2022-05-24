@@ -1,10 +1,9 @@
 ---
-Role: Bestie
 Player: Koi
 Race: Monkey
 Class: Rogue
 ---
-[[0.- Besties]]
+#Besties
 # January Strider
 ## Description
 Orange [[Apeling]], capable of changing size but usualy small. Very energetic.

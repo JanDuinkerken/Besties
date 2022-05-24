@@ -1,5 +1,7 @@
-[[Halune]]
+#Halune
 # The Highlands
+Belongs to the continent of [[Halune]].
+
 One of the three parts of [[Dravania]].
 
 Snowy mountains inhabited by the [[giants]].

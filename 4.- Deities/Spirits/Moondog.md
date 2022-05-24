@@ -1,4 +1,4 @@
-[[4.- Deities]]
+#Spirits
 # Moondog
 [[Maggie]]
 ![[Moondog.png]]

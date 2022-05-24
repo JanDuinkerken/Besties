@@ -1,4 +1,4 @@
-[[3.- Races]]
+#Races
 # Flora
 ## Physical Description
 ![[Flora.png]]

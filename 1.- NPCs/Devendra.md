@@ -1,9 +1,9 @@
 ---
-Role: Bestie
 Player: Koi
 Race: Human
 ---
-[[1.- NPCs]]
+#Besties 
+#NPC
 # Devendra Montague
 Devendra Montague is a 21 year old [[human]], 5'7'' with pale skin with freckles and red hair.
 

@@ -1,2 +1,2 @@
-[[3.- Races]]
+#Races
 # Kyros

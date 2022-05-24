@@ -1,2 +1,2 @@
-[[1.- NPCs]]
+#NPC
 # Tooth

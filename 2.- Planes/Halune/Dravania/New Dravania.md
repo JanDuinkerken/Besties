@@ -1,5 +1,7 @@
-[[Halune]]
+#Halune 
 # New Dravania
+Belongs to the continent of [[Halune]].
+
 One of the three parts of [[Dravania]].
 
 This land was inhabited by [[elezen]] and "ruled" by the [[Archbishop]]. They had a very strong believe in [[Ravan]], to the point of killing those who they deemed heretics. 

@@ -5,7 +5,7 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasWandMagicSparkles",
+      "FasGhost",
       "FasFeatherPointed",
       "FasGear",
       "FasPerson",
@@ -20,8 +20,6 @@
       "left": 2
     }
   },
-  "z_HowTo": "FasGear",
-  "z_HowTo/Plugins.md": "FasGear",
   "z_Attachments": "FarImage",
   "z_Markup": "FasGear",
   "z_Templates": "FasGear",
@@ -37,5 +35,7 @@
   "2.- Planes/Feywild": "FasLocationDot",
   "2.- Planes": "FasLocationDot",
   "6.- Classes": "FasWandMagicSparkles",
-  "3.- Races/Enemies": "FabOptinMonster"
+  "3.- Races/Enemies": "FabOptinMonster",
+  "1.- NPCs/Pets": "FasDog",
+  "4.- Deities/Spirits": "FasGhost"
 }
