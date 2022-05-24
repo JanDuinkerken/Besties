@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.- NPCs/Bo Burnham.md",
+            "file": "0.- Besties/0.- Besties.md",
             "mode": "source",
             "source": false
           }
@@ -20,8 +20,14 @@
             {
               "leaf": "8d624f424d563377",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1.- NPCs/Bo Burnham.md\",\"mode\":\"source\",\"source\":false}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0.- Besties/0.- Besties.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+            },
+            {
+              "leaf": "8d624f424d563377",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1.- NPCs/Bo Burnham.md\",\"mode\":\"source\",\"source\":false}}",
+              "eState": "{}"
             },
             {
               "leaf": "8d624f424d563377",
@@ -130,12 +136,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/15.md\",\"mode\":\"source\",\"source\":false}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
-            },
-            {
-              "leaf": "8d624f424d563377",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"7.- Notes/14.md\",\"mode\":\"source\",\"source\":false}}",
-              "eState": "{}"
             }
           ]
         }
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.- NPCs/Bo Burnham.md",
+                "file": "0.- Besties/0.- Besties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.- NPCs/Bo Burnham.md",
+                "file": "0.- Besties/0.- Besties.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -305,12 +305,12 @@
   },
   "active": "8d624f424d563377",
   "lastOpenFiles": [
+    "0.- Besties/0.- Besties.md",
     "1.- NPCs/Bo Burnham.md",
     "4.- Deities/Ortus.md",
     "4.- Deities/Ocasius.md",
     "4.- Deities/Kwoh.md",
     "7.- Notes/21.md",
-    "0.- Besties/0.- Besties.md",
     "1.- NPCs/Hercules.md",
     "7.- Notes/20.md",
     "7.- Notes/19.md",
