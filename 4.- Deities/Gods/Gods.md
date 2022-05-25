@@ -1,5 +1,8 @@
-
-# The Chicken, or The Egg?
+---
+alias: God
+---
+# Gods
+## The Chicken, or The Egg?
 
 *"Gods are merely constructs of concentrated aether made manifest by the will of their followers! They must consume aether from its surroundings, thus becoming a threat to the entire world."
 	Estinien, at The Developer's Exibit
