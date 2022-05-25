@@ -4,7 +4,7 @@
 ![[Flora.png]]
 ![[Flora 2.png]]
 
-Flora are a feywildian exclusive race thatave a flower onas a headFlora usually have green skin, but their skin and flowers can have colorations that range the entire visual spectrum, and perhaps beyond. Other plants have been known to be on a Flora's head, such as cacti and fly traps.
+Flora are a feywildian exclusive race. They usually have green skin, but their skin and flowers can have colorations that range the entire visual spectrum, and perhaps beyond. Other plants have been known to be on a Flora's head, such as cacti and fly traps.
 
 This race is mainly classified between being edible or non-edible by the majority of the surrounding population. If the [[fey]] is found to be edible, they are generally called "Sylphs."
 

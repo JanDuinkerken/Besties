@@ -1,12 +1,13 @@
 #NPC
 # Estinien
 [[Zion]]
+![[Pasted image 20220524234842.png]]
 
 Estinien is a 23 year old half [[Elezen]](Eastern) half [[Fey]] (Aerial Siren) born to Juliana Belladona. He is about 5'11'' with pale skin and white hair.
 
 A noteable trait he wears one dangly silver earring on the gay side and has very shiny golden eyes.
 
-Estinien spent the first 7 years of his life growing up in [[Valeran]], Hanaecove. Spending most of his time at the Water Spout Brothel, where his mother worked. He is shown to be very shy and always carrying a little lamb plushie, Lamby, in dream nail sequences. 
+Estinien spent the first 7 years of his life growing up in [[Valeran]], Hanaecove. Spending most of his time at the Water Spout Brothel, where his mother worked. He was shown to be very shy and always carrying a little lamb plushie, Lamby, in dream nail sequences. 
 
 On Estinien's 7th birthday, his mother failed to win a game against his father, leading to Juliana having to follow him to the [[feywild]], but Estinien had been willing to take her place instead. In which after Estinien had been taken to the [[feywild]], he had been sent to be under Jovanni's Theatre. Growing up in the TOXIC MASCULINITY CATACOMBSSS, Estinien had adapted and was basically the top dog by the time he was like 17. 
 
