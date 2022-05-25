@@ -13,3 +13,4 @@ Race: Human?
 [[Sorcerer]]?
 ## Backstory
 Born in [[Idyleshire]]. Worked as a scientist under [[Daniel]] Montague. After [[January]] crashed the presentation of [[Daniel]]'s new invention (the mechs the [[0.- Besties|besties]] stole) he had to escape [[York]]. We saved him when the airship he was fleeing in was attacked by [[Sin Eaters]] and he joined the [[0.- Besties|bestie]]s.
+![[AAAA.png]]

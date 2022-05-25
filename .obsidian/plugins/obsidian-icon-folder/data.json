@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasGhost",
+      "FarHandshake",
       "FasFeatherPointed",
-      "FasGear",
-      "FasPerson",
-      "FasLocationDot"
+      "FasGhost",
+      "FasCloudSunRain",
+      "FasSpaghettiMonsterFlying"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,7 +27,6 @@
   "0.- Besties": "FasPerson",
   "1.- NPCs": "FasChild",
   "3.- Races": "FasFeatherPointed",
-  "4.- Deities": "FasCross",
   "5.- Artifacts": "FasBuildingColumns",
   "7.- Notes": "RiFileTextFill",
   "8.- Rp chat": "RiChat1Fill",
@@ -37,5 +36,8 @@
   "6.- Classes": "FasWandMagicSparkles",
   "3.- Races/Enemies": "FabOptinMonster",
   "1.- NPCs/Pets": "FasDog",
-  "4.- Deities/Spirits": "FasGhost"
+  "4.- Deities": "FasCross",
+  "4.- Deities/Spirits": "FasGhost",
+  "4.- Deities/Gods": "FasCloudSunRain",
+  "4.- Deities/Celestials": "FarSun"
 }

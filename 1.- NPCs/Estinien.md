@@ -14,3 +14,4 @@ When Estinien was 18, he had been sent out to the material plane to perform and 
 
 Estinien founded the [[Godseekers]] in his garage like Steve Jobs or something. Gaining a literal cult following over time! Welcome 2 Godseeker Manwhore Summer ig? And with this new cult came a new name-- [[Zion]]✨
 
+![[estinien1.png]]

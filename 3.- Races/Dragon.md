@@ -86,4 +86,6 @@ Despite typically being solitary creatures, when a dragon decides to not live a 
 
 Most dragons of the same type will seemingly ignore one another except when given a reason not to. However, not all dragons are the same. Although there might be reasons for discourse between dragons of the same type, that discourse pales in comparison to the more frequent disputes between chromatic dragons and metallic dragons. The rivalry between the two different types of dragons has led to chromatic dragons and metallic dragons detesting one another. Encounters between these two types of dragons are heated and often leads to either fights or grudges forming between the dragons.
 
-They were by [[human]]s because of the powers given to those who eat their eyes.
+## Dragons in the Modern Age
+
+Halunic Dragons have made their home in [[the Highlands]] of Northwestern [[Halune]]. Unfortunately, many Western [[Elezen]] formed the belief that eating the eyes of something immortal can grant you incredible powers, thus beginning the practice of poaching and killing dragons for their eyes.

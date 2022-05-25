@@ -13,3 +13,4 @@ Red [[Aarakocra]], 5'5 ft tall. Birb.
 [[Warlock]]
 ## Backstory
 He forgor💀.
+![[lem.png]]

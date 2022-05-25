@@ -18,3 +18,4 @@ He is the son of [[Carlos Perth]], pastor of the order of the Sunweilders, he wa
 As a [[paladin]] of the order of the Sunweilders he believed in [[Ocasius]].
 
 Died crushed by an airship.
+![[HEEE.png]]

@@ -27,3 +27,4 @@ Devendra had died by getting shattered after being stabbed by a red knife [[Janu
 
 There was implied Mayonnaise between Devendra and [[Clarissa]] Viridi
 Sauce: Off stage scene between [[0.- Besties|besties]] Notes [[8]] and [[9]] 
+![[dev.png]]
