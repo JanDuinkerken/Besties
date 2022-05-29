@@ -1,4 +1,4 @@
-#Halune
+#Planes/Halune
 # The Highlands
 Belongs to the continent of [[Halune]].
 

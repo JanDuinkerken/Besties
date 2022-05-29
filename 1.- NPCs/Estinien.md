@@ -1,7 +1,7 @@
 #NPC
 # Estinien
 [[Zion]]
-![[Pasted image 20220524234842.png]]
+![[Estinien meme.png]]
 
 Estinien is a 23 year old half [[Elezen]](Eastern) half [[Fey]] (Aerial Siren) born to Juliana Belladona. He is about 5'11'' with pale skin and white hair.
 

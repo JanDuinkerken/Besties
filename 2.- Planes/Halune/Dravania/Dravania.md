@@ -1,4 +1,4 @@
-#Halune
+#Planes/Halune
 # Dravania
 Belongs to the continent of [[Halune]].
 

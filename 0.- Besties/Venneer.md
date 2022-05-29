@@ -7,7 +7,7 @@ Race: Human?
 # Veneer
 ## Description
 [[Human]] looking (still not sure what race he really is), 6'2 ft tall, strong facial features, hazel eyes and a mop of curly brown hair. Dressed in bright colours and wearing missmatched earrings and some more jewellery
-![[Pasted image 20220526211009.png]]
+![[Veneer drawing.png]]
 ## Image
 ![[Venneer.png]]
 ## Class

@@ -1,4 +1,5 @@
 #Deities
+#Deities/Sunweilders
 # Kwoh
 [[Gods|God]] of judgement.
 

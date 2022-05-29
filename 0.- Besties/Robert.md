@@ -5,6 +5,7 @@ Race: Human
 alias: Rober
 ---
 #Besties
+#Deities/Sunweilders
 # Robert Perth
 ## Description
 [[Human]]
@@ -13,7 +14,7 @@ alias: Rober
 ## Class
 [[Paladin]]
 ## Backstory
-He is the son of [[Carlos Perth]], pastor of the order of the Sunweilders, he was a [[paladin]] in search of the ring his order had been tasked with protecting in ancient times, but which was lost a long time ago. 
+Born in [[Solus]]. He is the son of [[Carlos Perth]], pastor of the order of the Sunweilders, he was a [[paladin]] in search of the ring his order had been tasked with protecting in ancient times, but which was lost a long time ago. 
 
 As a [[paladin]] of the order of the Sunweilders he believed in [[Ocasius]].
 

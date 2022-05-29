@@ -1,4 +1,4 @@
-#Spirits
+#Deities/Spirits
 # "The Bargaining"
  A corrupted [[Spirits|spirit]] that terrorized [[Willowfey]], eventually put to rest by [[January]] and [[Varian]] some time ago.  
 A statue was made in their honor... per [[January]]'s request.

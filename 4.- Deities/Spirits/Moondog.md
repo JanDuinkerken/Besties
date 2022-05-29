@@ -1,4 +1,4 @@
-#Spirits
+#Deities/Spirits
 # "Moondog"
 [[Maggie]]'s unintentional creation, due to their belief in the moon.
 

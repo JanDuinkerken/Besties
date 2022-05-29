@@ -1,4 +1,4 @@
-#Halune
+#Planes/Halune
 # Idyleshire
 Belongs to the continent of [[Halune]].
 ![[Idyleshire 1.png]]

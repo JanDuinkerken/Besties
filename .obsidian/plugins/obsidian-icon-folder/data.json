@@ -35,9 +35,9 @@
   "2.- Planes": "FasLocationDot",
   "6.- Classes": "FasWandMagicSparkles",
   "3.- Races/Enemies": "FabOptinMonster",
-  "1.- NPCs/Pets": "FasDog",
   "4.- Deities": "FasCross",
   "4.- Deities/Spirits": "FasGhost",
   "4.- Deities/Gods": "FasCloudSunRain",
-  "4.- Deities/Celestials": "FarSun"
+  "4.- Deities/Celestials": "FarSun",
+  "1.- NPCs/Petsties": "FasDog"
 }
