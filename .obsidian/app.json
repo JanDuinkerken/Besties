@@ -4,5 +4,11 @@
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "z_Attachments",
   "promptDelete": false,
-  "vimMode": false
+  "vimMode": false,
+  "showLineNumber": false,
+  "spellcheckLanguages": [
+    "en-US",
+    "es-ES"
+  ],
+  "spellcheck": true
 }

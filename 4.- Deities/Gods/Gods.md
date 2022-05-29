@@ -1,6 +1,7 @@
 ---
 alias: God
 ---
+#Deities 
 # Gods
 ## The Chicken, or The Egg?
 

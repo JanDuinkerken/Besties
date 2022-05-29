@@ -10,7 +10,7 @@ This land was inhabited by [[elezen]] and "ruled" by the [[Archbishop]]. They ha
 
 The [[Archbishop]] had declared a war with the [[giants]] because they were not happy with them drinking the blood of [[Ravan]].
 
-It turns out the [[Archbishop]] was restraining and weakening [[Ravan]] to extract his blood, and then he was giving it to his followers to transform them into draconic beings to later harness their power and become the new god.
+It turns out the [[Archbishop]] was restraining and weakening [[Ravan]] to extract his blood, and then he was giving it to his followers to transform them into draconic beings to later harness their power and become the new [[Gods|god]].
 
 ![[New Dravania 2.png]]
 

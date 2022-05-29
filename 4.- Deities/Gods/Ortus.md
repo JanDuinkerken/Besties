@@ -1,4 +1,4 @@
-#Deities
+#Deities/Gods
 # Ortus
 [[Gods|God]] of the sun and healing, one half of [[Kwoh]].
 

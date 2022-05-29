@@ -71,24 +71,10 @@
       }
     },
     {
-      "query": "tag:#Halune",
-      "color": {
-        "a": 1,
-        "rgb": 8218166
-      }
-    },
-    {
       "query": "tag:#Enemies",
       "color": {
         "a": 1,
         "rgb": 16711680
-      }
-    },
-    {
-      "query": "tag:#Spirits",
-      "color": {
-        "a": 1,
-        "rgb": 10220521
       }
     }
   ],
@@ -97,11 +83,11 @@
   "textFadeMultiplier": -0.4,
   "nodeSizeMultiplier": 1.18231476918022,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.530048076923077,
   "repelStrength": 8.20779914529915,
   "linkStrength": 0.444577991452991,
   "linkDistance": 287,
-  "scale": 0.6989606412938187,
+  "scale": 0.40252075423479217,
   "close": false
 }

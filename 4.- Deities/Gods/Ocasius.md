@@ -1,4 +1,4 @@
-#Deities
+#Deities/Gods
 # Ocasius
 [[Gods|God]] of sun and truth, one half of [[Kwoh]].
 

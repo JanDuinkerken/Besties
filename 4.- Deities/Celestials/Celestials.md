@@ -1,6 +1,7 @@
 ---
 alias: Celestial
 ---
+#Deities 
 # Celestials
 ## The Words of Prophets are Written on Subway Walls
 
