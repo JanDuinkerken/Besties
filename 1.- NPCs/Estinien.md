@@ -2,7 +2,7 @@
 # Estinien
 [[Zion]]
 
-![[Pasted image 20220530183451.png]]
+![[queer.png]]
 
 ![[Estinien meme.png]]
 

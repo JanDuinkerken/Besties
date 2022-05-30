@@ -7,4 +7,4 @@ A Lantern shaped [[5.- Artifacts|relic]] containing some sort of crystal that wa
 Highly sought after by the [[Godseekers]] for reasons unknown.
 
 
-![[Pasted image 20220530184711.png]]
+![[labern.png]]![[laantern.png]]

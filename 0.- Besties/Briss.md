@@ -13,3 +13,5 @@ alias: Brisseida
 ## Class
 [[Sorcerer]]
 ## Backstory
+
+![[briss 1.png]]
