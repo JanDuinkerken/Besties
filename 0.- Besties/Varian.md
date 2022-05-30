@@ -7,7 +7,7 @@ alias: Varians
 #Besties
 # Varian
 ## Description
-He is a [[Kyros]], very tall. He is missing one eye, which he has covered with bandages. Wears a cloak.
+He is a [[Kyros]], very tall. He is missing one eye, which he has covered with bandages. Wears a cloak. 
 
 ## Image
 ![[Varian.png]]
