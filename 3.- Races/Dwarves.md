@@ -1,4 +1,7 @@
-#Races
+---
+alias: Dwarf
+tag: Races
+---
 # Dwarves
 ![[Dwarve.png]]
 ## Short and Stout
