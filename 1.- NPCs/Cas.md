@@ -1,2 +1,5 @@
+---
+alias: Casdrium
+---
 #NPC
 # Casdrium 

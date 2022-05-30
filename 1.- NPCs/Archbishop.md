@@ -1,3 +1,6 @@
+---
+alias: Soren
+---
 #NPC
 # Archbishop Soren XVII
 [[Levi]]'s father.
