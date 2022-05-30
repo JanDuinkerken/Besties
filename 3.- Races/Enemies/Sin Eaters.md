@@ -1,4 +1,7 @@
-#Enemies
+---
+alias: Sineater
+tags: Enemies
+---
 # Sineaters
 Created by [[Kwoh]].
 ![[Sin Eater 1.png]]

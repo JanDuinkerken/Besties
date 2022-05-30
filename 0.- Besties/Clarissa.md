@@ -2,6 +2,7 @@
 Player: Lemon
 Class: Druid
 Race: Fauna
+alias: Clari, Clary, clarissas, claris, clarys
 ---
 #Besties
 # Clarissa Viridi

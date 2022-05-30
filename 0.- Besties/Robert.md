@@ -2,7 +2,7 @@
 Player: Tony
 Class: Paladin
 Race: Human
-alias: Rober
+alias: Rober, Robers, Roberts
 ---
 #Besties
 #Deities/Sunweilders

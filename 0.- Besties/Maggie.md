@@ -2,6 +2,7 @@
 Player: Paula
 Class: Rogue
 Race: Tiefling
+alias: Magpie, Maggies, Magpies
 ---
 #Besties
 # Magpie

@@ -2,6 +2,7 @@
 Player: Koi
 Class: Warlock
 Race: Kyros
+alias: Varians
 ---
 #Besties
 # Varian

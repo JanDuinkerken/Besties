@@ -2,10 +2,8 @@
 Player: Koi
 Class: Paladin
 Race: Orc
+tags: Besties, NPC, Deities/Sunweilders
 ---
-#Besties 
-#NPC
-#Deities/Sunweilders
 # Hercules Wonderbread
 He is a very handsome Orc, not very smart.
 

@@ -2,6 +2,7 @@
 Player: Jan
 Class: Fighter
 Race: Dwarf
+alias: Giddy, Giddyans, Giddys
 ---
 #Besties
 # Giddyan Flintheart

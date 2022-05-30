@@ -13,6 +13,6 @@ On Estinien's 7th birthday, his mother failed to win a game against his father, 
 
 When Estinien was 18, he had been sent out to the material plane to perform and assassinate nobles in [[York]]. During the performance, he encountered [[January]] Strider and [[Kyros]] [[Varian]] for the first time, botching up the final (?) targets-- the King and Queen of [[York]]. Cause of this, Estinien found himself trapped in [[York]]. Thus, beginning his chase for the two knuckle heads.
 
-Estinien founded the [[Godseekers]] in his garage like Steve Jobs or something. Gaining a literal cult following over time! Welcome 2 Godseeker Manwhore Summer ig? And with this new cult came a new name-- [[Zion]]✨
+Estinien founded the [[Godseekers]] in his garage like Steve Jobs or something. Gaining a literal cult following over time! Welcome 2 [[Godseekers|Godseeker]] Manwhore Summer ig? And with this new cult came a new name-- [[Zion]]✨
 
 ![[estinien1.png]]
