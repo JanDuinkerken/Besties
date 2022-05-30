@@ -5,13 +5,13 @@ Race: Human
 #Besties 
 #NPC
 # Devendra Montague
-Devendra Montague is a 21 year old [[human]], 5'7'' with pale skin with freckles and red hair.
+Devendra Montague was a 21 year old [[human]], 5'7'' with pale skin with freckles and red hair.
 
-She has a noteable lightning scar that goes down her forehead and over her right eye.
+She had a noteable lightning scar that goes down her forehead and over her right eye.
 
 She grew up in the town of [[Solus]], Hunaecove. 
 
-She has an older brother named [[Daniel]] Montague, who had given Devendra her scar due to an accident in the past. 
+She had an older brother named [[Daniel]] Montague, who had given Devendra her scar due to an accident in the past. 
 
 Because of said accident, Devendra had been unable to cast magic her whole life, causing her mother and father to never be content with her. Devendra had been trying every method possible to cast magic, from worshipping [[Ortus]], and travelled all the way to [[Dravania]] to try and become a wizard. 
 
