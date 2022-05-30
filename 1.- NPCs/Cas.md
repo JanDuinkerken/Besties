@@ -1,5 +1,5 @@
 ---
-alias: Casdrium
+alias: Casdrium, Castrium
 ---
 #NPC
 # Casdrium 
