@@ -15,4 +15,4 @@ Red [[Aarakocra]], 5'5 ft tall. Birb.
 ## Backstory
 He forgor💀.
 ![[lem.png]]
-![[Pasted image 20220530194126.png]]
+![[Lemm meme.png]]
