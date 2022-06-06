@@ -24,9 +24,9 @@ Having lived with [[giants]](while he is only 5ft tall) there’s not much he fe
 ## Backstory
 He was born in a small mountain town named Salmyr, in [[The Highlands]], far from most big cities. When he was little his village got raided by a group of bandits, but he managed to escape.
 
-Wandering through the mountains he met a giant named Tharn. He was scared at first, but after being roaming the mountains for a long time without almost any food or water he approached him to ask for help.
+Wandering through the mountains he met a [[Giants|giant]] named Tharn. He was scared at first, but after being roaming the mountains for a long time without almost any food or water he approached him to ask for help.
 
-To his surprise Tharn was an outcast from a giant group, exiled because he pursued knowledge from the runes instead of mindless fighting. Under his wing Giddyan learnt to utilize the runes and harvest their power. After training and living with him for some years he decided that it was time to seek revenge for his family and to reclaim his village, but first he would need help, so he chose to embark on an adventure to find friends and connections and to become powerful enough to defeat those bandits.
+To his surprise Tharn was an outcast from a [[Giants|giant]] group, exiled because he pursued knowledge from the runes instead of mindless fighting. Under his wing Giddyan learnt to utilize the runes and harvest their power. After training and living with him for some years he decided that it was time to seek revenge for his family and to reclaim his village, but first he would need help, so he chose to embark on an adventure to find friends and connections and to become powerful enough to defeat those bandits.
 ![[Giddyan 2.png]]
 https://youtube.com/shorts/mzmcq7dd0pI?feature=share
 ![[bigman.png]]
