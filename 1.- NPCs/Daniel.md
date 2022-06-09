@@ -6,5 +6,5 @@ Alignment: Bestie
 ---
 #NPC
 # Daniel Montague
-[[Devendra's]] Eldest Brother
+[[Devendra]]'s Eldest Brother
 

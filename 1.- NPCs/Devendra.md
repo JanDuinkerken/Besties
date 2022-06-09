@@ -18,7 +18,7 @@ She had an older brother named [[Daniel]] Montague, who had given Devendra her s
 
 Because of said accident, Devendra had been unable to cast magic her whole life, causing her mother and father to never be content with her. Devendra had been trying every method possible to cast magic, from worshipping [[Ortus]], and travelled all the way to [[Dravania]] to try and become a wizard. 
 
-Devendra had an encounter with the [[Godseekers]] whilst travelling with Ser [[Levian]] ([[Levi]]) to a cave in [[Dravania]]. Devendra had been willing to join with the promise of not needing deities to bless her with magic abilities. 
+Devendra had an encounter with the [[Godseekers]] whilst travelling with Ser [[Levi|Levian]] to a cave in [[Dravania]]. Devendra had been willing to join with the promise of not needing deities to bless her with magic abilities. 
 
 After encountering the [[0.- Besties|besties]] in the caves the [[Godseekers]] had inhabited, Devendra had been subdued. Devendra would later join the party after being healed by Dravanian Scholars. Devendra accompanied the [[0.- Besties|besties]] throughout their trial investigation and after.
 

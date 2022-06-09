@@ -3,8 +3,8 @@ alias: Bo
 State: Dead
 Alignment: Anti-Bestie
 Location: Willowfey
+tags: NPC
 ---
-#NPC
 # Bo Burnham
 [[Gillian]]'s brother. 
 

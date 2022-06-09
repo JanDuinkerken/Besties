@@ -5,69 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Besties",
       "color": {
         "a": 1,
-        "rgb": 65322
+        "rgb": 49151
       }
     },
     {
       "query": "tag:#NPC",
       "color": {
         "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "tag:#Planes",
-      "color": {
-        "a": 1,
-        "rgb": 6056662
-      }
-    },
-    {
-      "query": "tag:#Races",
-      "color": {
-        "a": 1,
-        "rgb": 14048448
-      }
-    },
-    {
-      "query": "tag:#Notes",
-      "color": {
-        "a": 1,
-        "rgb": 15171198
-      }
-    },
-    {
-      "query": "tag:#Deities",
-      "color": {
-        "a": 1,
-        "rgb": 15266649
-      }
-    },
-    {
-      "query": "tag:#Artifacts",
-      "color": {
-        "a": 1,
-        "rgb": 64511
-      }
-    },
-    {
-      "query": "tag:#Classes",
-      "color": {
-        "a": 1,
-        "rgb": 14269416
-      }
-    },
-    {
-      "query": "tag:#Rp",
-      "color": {
-        "a": 1,
-        "rgb": 7368816
+        "rgb": 13172480
       }
     },
     {
@@ -76,22 +27,53 @@
         "a": 1,
         "rgb": 16711680
       }
+    },
+    {
+      "query": "tag:#Races",
+      "color": {
+        "a": 1,
+        "rgb": 6998205
+      }
+    },
+    {
+      "query": "tag:#Notes",
+      "color": {
+        "a": 1,
+        "rgb": 16739231
+      }
+    },
+    {
+      "query": "tag:#Planes",
+      "color": {
+        "a": 1,
+        "rgb": 1179392
+      }
+    },
+    {
+      "query": "tag:#Deities",
+      "color": {
+        "a": 1,
+        "rgb": 16550173
+      }
+    },
+    {
+      "query": "tag:#Artifacts",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.4,
-  "nodeSizeMultiplier": 1.18231476918022,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.6,
+  "nodeSizeMultiplier": 0.99482649342418,
+  "lineSizeMultiplier": 1.09420852479797,
   "collapse-forces": false,
-  "centerStrength": 0.453125,
-  "repelStrength": 5.81463675213675,
-  "linkStrength": 0.495860042735043,
-  "linkDistance": 271,
-<<<<<<< HEAD
-  "scale": 0.5042161362279963,
-=======
-  "scale": 0.7069023997743952,
->>>>>>> ff741c0db2ab14588fa61fe1b5026febdb22496a
-  "close": false
+  "centerStrength": 0.672991621488418,
+  "repelStrength": 11.5672745194677,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.56941489286676,
+  "close": true
 }
