@@ -3,8 +3,8 @@ Player: Roman
 Class: Warlock
 Race: Aarakocra
 alias: Lemms
+tags: Besties
 ---
-#Besties
 # Lemm
 ## Description
 Red [[Aarakocra]], 5'5 ft tall. Birb.

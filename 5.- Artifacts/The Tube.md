@@ -1,4 +1,7 @@
-#Artifacts
+---
+tags: Artifacts
+In_possession_of: Godseekers
+---
 # "The Tube"
 Unknown Aspect
 

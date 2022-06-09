@@ -1,6 +1,7 @@
 ---
 alias: Sineater
 tags: Enemies
+Plane: 
 ---
 # Sineaters
 Created by [[Kwoh]].

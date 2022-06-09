@@ -3,8 +3,8 @@ Player: Tania
 Class: Sorcerer
 Race: Tiefling
 alias: Brisseida
+tags: Besties
 ---
-#Besties
 # Brisseida
 ## Description
 [[Tiefling]]

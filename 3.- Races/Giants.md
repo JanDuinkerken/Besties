@@ -1,7 +1,9 @@
 ---
 alias: Giant
+Zone: The Highlands
+Plane: Halune
+tags: Races
 ---
-#Races
 # Giants
 Ancient empires once cast tall shadows over a world that quaked beneath the giants’ feet. In those lost days, these great creatures were dreamers, crafters, and kings, but their kind fell from glory long ago. However, even divided among secluded clans scattered throughout the world, the giants maintain the customs, traditions, and order of old.
 

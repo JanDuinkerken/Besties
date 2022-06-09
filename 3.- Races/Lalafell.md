@@ -1,4 +1,6 @@
-#Races
+---
+tags: Races
+---
 # Lalafell
 ## Physical Description
 

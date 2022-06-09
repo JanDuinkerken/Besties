@@ -1,2 +1,4 @@
-#Races
+---
+tags: Races
+---
 # Kyros

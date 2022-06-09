@@ -1,5 +1,8 @@
 ---
 aliases: Cannon, Jonesy
+Location: The Highlands
+State: Alive
+Alignment: Anti-Bestie
 ---
 #NPC
 # Cannon Jonesy

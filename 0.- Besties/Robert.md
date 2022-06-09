@@ -3,9 +3,8 @@ Player: Tony
 Class: Paladin
 Race: Human
 alias: Rober, Robers, Roberts
+tags: Besties, Deities/Sunweilders
 ---
-#Besties
-#Deities/Sunweilders
 # Robert Perth
 ## Description
 [[Human]]

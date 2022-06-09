@@ -1,4 +1,6 @@
-#Classes
+---
+tags: Classes
+---
 # Sorcerer
 ## Raw Magic
 Magic is a part of every sorcerer, suffusing body, mind, and spirit with a latent power that waits to be tapped. Some sorcerers wield magic that springs from an ancient bloodline infused with the magic of dragons. Others carry a raw, uncontrolled magic within them, a chaotic storm that manifests in unexpected ways.

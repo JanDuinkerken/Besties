@@ -1,5 +1,8 @@
 ---
 alias: Bo
+State: Dead
+Alignment: Anti-Bestie
+Location: Willowfey
 ---
 #NPC
 # Bo Burnham

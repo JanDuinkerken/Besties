@@ -1,4 +1,6 @@
-#Classes
+---
+tags: Classes
+---
 # Cleric
 ## Healers and Warriors
 Divine magic, as the name suggests, is the power of the gods, flowing from them into the world. Clerics are conduits for that power, manifesting it as miraculous effects. The gods don’t grant this power to everyone who seeks it, but only to those chosen to fulfill a high calling.

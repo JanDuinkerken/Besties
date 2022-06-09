@@ -1,10 +1,10 @@
 ---
 Player: Courtney
-Class: Sorcerer?
+Class: Sorcerer
 Race: Human?
 alias: Veneer, Ven, Venneers, Veneers, Vens
+tags: Besties
 ---
-#Besties
 # Venneer
 ## Description
 [[Human]] looking (still not sure what race he really is), 6'2 ft tall, strong facial features, hazel eyes and a mop of curly brown hair. Dressed in bright colours and wearing missmatched earrings and some more jewellery

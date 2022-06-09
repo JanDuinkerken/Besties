@@ -1,6 +1,9 @@
 ---
 Player: Koi
 Race: Human
+Location: Solus
+State: Dead
+Alignment: Bestie
 ---
 #Besties 
 #NPC

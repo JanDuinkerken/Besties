@@ -1,2 +1,5 @@
-#NPC/Petsties 
+---
+tags: NPC/Petsties
+Caretaker: Giddyan
+---
 # Eggman

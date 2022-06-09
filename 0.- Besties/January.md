@@ -3,8 +3,8 @@ Player: Koi
 Race: Monkey
 Class: Rogue
 alias: Jan, Januarys, Jans
+tags: Besties
 ---
-#Besties
 # January Strider
 ## Description
 Orange [[Apeling]], capable of changing size but usually small. Very energetic.

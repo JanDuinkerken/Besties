@@ -3,8 +3,8 @@ Player: Lemon
 Class: Druid
 Race: Fauna
 alias: Clari, Clary, clarissas, claris, clarys
+tags: Besties
 ---
-#Besties
 # Clarissa Viridi
 ## Description
 Clarissa is a 5'3'' girl with deer like ears and horns ([[Fey]]), she wears a plain pastel blue dress with a golden yellow sash as a scarf. She also wears a brown corset to synch the waist. She now wears a little heart earring on the right ear, and a pearl choker with a bronze butterfly pendant

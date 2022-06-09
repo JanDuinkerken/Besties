@@ -1,4 +1,7 @@
-#Races
+---
+Plane: Halune
+tags: Races
+---
 # Dragon
 ## Physical Description
 Dragons are winged reptilians of ancient lineage and terrifying powers. They are known and feared for their predatory behavior, cunning, wit, and greed. The oldest dragons are regarded as some of the most powerful creatures in the world. Dragons are magical creatures whose innate power gives them many preternatural abilities. Many creatures, including wyverns and dragon turtles, have draconic blood, however, true dragons are made up of two categories: chromatic and metallic dragons. Blue, white, black, green and red dragons are selfish, evil and feared by everyone and everything. Bronze, copper, brass, gold, and silver are noble, benign and highly respected by the wise people of their race. Although their goals and ideals vary tremendously, all dragons covet riches and strive to accumulate piles of coins, gems, jewelry and magical items. Dragons with great mountains of treasure hate to leave them for a long time, only venturing out of their dens to patrol and feed themselves. They can live for thousands of years, and while aging, they grow ever stronger and their treasure hoards grow ever larger.

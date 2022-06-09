@@ -1,6 +1,8 @@
 ---
 alias: Dwarf
-tag: Races
+tags: Races
+Plane: Halune
+Zone: The Highlands
 ---
 # Dwarves
 ![[Dwarve.png]]

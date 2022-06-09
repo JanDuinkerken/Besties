@@ -1,3 +1,8 @@
+---
+Location: Solus
+State: Alive
+Alignment: Bestie
+---
 #NPC
 #Deities/Sunweilders
 # Carlos Perth

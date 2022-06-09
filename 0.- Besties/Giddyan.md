@@ -3,8 +3,8 @@ Player: Jan
 Class: Fighter
 Race: Dwarf
 alias: Giddy, Giddyans, Giddys
+tags: Besties
 ---
-#Besties
 # Giddyan Flintheart
 Giddyan Flintheart {.Davek}
 

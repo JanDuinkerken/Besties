@@ -1,4 +1,7 @@
-#NPC/Petsties
+---
+tags: NPC/Petsties
+Caretaker: Giddyan
+---
 # Crunch
 [[Giddyan]]'s pet giant dog. The first of the [[0.- Besties|besties]] pets.
 

@@ -1,5 +1,8 @@
 ---
 alias: Soren
+Location: New Dravania
+State: Dead
+Alignment: Anti-Bestie
 ---
 #NPC
 # Archbishop Soren XVII

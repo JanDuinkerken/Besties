@@ -1,6 +1,7 @@
 ---
 alias: Neo-Godseeker
 tags: Enemies
+Plane: 
 ---
 # Neo-Godseekers
 Upgraded version from the original [[Godseekers]], they have red cristals that are growing from them. 

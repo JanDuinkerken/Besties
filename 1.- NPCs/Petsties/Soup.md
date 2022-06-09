@@ -1,4 +1,7 @@
-#NPC/Petsties
+---
+tags: NPC/Petsties
+Caretaker: Maggie
+---
 # Soup
 [[Maggie]]'s pet dog. She bought him at [[Tooth]]'s Bodega.
 

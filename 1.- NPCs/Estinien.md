@@ -1,3 +1,7 @@
+---
+State: Alive
+Alignment: Anti-Bestie
+---
 #NPC
 # Estinien
 [[Zion]]
