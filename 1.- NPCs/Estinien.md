@@ -1,6 +1,7 @@
 ---
 State: Alive
 Alignment: Anti-Bestie
+Location: Valeran
 ---
 #NPC
 # Estinien

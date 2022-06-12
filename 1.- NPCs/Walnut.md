@@ -1,6 +1,7 @@
 ---
 State: Alive
 Alignment: Bestie
+Location: Willowfey
 ---
 #NPC
 # Walnut

@@ -5,6 +5,7 @@ Race: Orc
 tags: Besties, NPC, Deities/Sunweilders
 State: Alive
 Alignment: Bestie
+Location: Dappervolk
 ---
 # Hercules Wonderbread
 He is a very handsome Orc, not very smart.
