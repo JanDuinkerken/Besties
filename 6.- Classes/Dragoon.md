@@ -7,7 +7,7 @@ A Lalafelian cloaked in scale mail whirl's their spear around a cluster of enemi
 
 A Firbolg woman runs and leaps high into the sky, magical wings forming on her body. With grace, she travels the currents of the wind, happily flying about as she exercises her new found freedom.
 
-These fearless warriors stand against dragons, demons, fiends and any other threats who would raise a hand against their homelands. Dragoons use their command of both the sky and ground to strike down their foes with deadly strikes.
+These fearless warriors stand against dragons, giants, fiends and any other threats who would raise a hand against their homelands. Dragoons use their command of both the sky and ground to strike down their foes with deadly strikes.
 
 ### Dragonbane
 The Dragoon was a soldier born out of need in a distant land. Their homeland has been locked in a war against dragon kind for hundreds of years, leading to their soldiers to specialize in battling back against dragons. Their most notable ability is the Dragoon Jump, which is powered by a magical gem each Dragoon receives upon completing their basic training.
