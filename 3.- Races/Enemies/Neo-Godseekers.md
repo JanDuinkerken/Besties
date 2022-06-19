@@ -13,3 +13,5 @@ Some of them blow up after dying.
 ![[Neo-godseeker 2.png]]
 ![[Neo-godseeker 3.png]]
 ![[Neo-godseeker 4.png]]
+![[Barry Bluejeans.png]]
+![[NeoGodseeker.png]]
