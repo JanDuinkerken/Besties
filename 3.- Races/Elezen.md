@@ -2,6 +2,7 @@
 Plane: Halune
 tags: Races
 Zone: Dravania, Idyleshire
+alias: dravanians, dravanian
 ---
 # Elezen
 ## Elegance and Pride
@@ -21,6 +22,6 @@ Eastern Elezen whose ancestors made their home in the feytouched plains of the S
 
 ## Dravanian Heritage
 Looking to the Northern city state of [[New Dravania]], towering spires, homes and a grand cathedral hide behind their giant gates. Living conditions in [[Dravania]] are rough, as the poor go hungry in the lower levels of the city, while the wealthy live in exuberance, looking down on the less fortunate citizens, ruled by the religious teachings of the Holy See.
-Originally Western Elezen in nature, Dravanians gained their Draconic features due to drinking the blood of [[Ravan]], a Pure-[[Dragon]] God who had been weakened and kept stored within the center of [[Archbishop]] Soren XVII's Cathedral. Dravanians are characterized by their curved horns and intricate patterning of scales across their bodies. Sleek and powerful tails extend out from behind them. Their faces contain sharp features and piercing eyes.
+Originally Western Elezen in nature, Dravanians gained their Draconic features due to drinking the blood of [[Ravan]], a Pure-[[Dragon]] [[Gods|God]] who had been weakened and kept stored within the center of [[Archbishop]] [[Archbishop|Soren]] XVII's Cathedral. Dravanians are characterized by their curved horns and intricate patterning of scales across their bodies. Sleek and powerful tails extend out from behind them. Their faces contain sharp features and piercing eyes.
 
 Dravanians are a misunderstood people due to their physical appearance. Their scaled bodies and horns led many to fear them, believing them to be descendants of dragons or demons. This fear led to hate, which gave way to violence, leaving these proud people fewer in number across much of the world beyond [[Dravania]] itself. These conditions have led these Draconic Elezen to value their families beyond all else.

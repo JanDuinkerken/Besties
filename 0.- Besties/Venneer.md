@@ -2,7 +2,7 @@
 Player: Courtney
 Class: Sorcerer
 Race: Human?
-alias: Veneer, Ven, Venneers, Veneers, Vens
+alias: Veneer, Ven, Venneers, Veneers, Vens, Venne
 tags: Besties
 ---
 # Venneer

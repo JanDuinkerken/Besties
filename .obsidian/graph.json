@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#Besties",
@@ -36,13 +36,6 @@
       }
     },
     {
-      "query": "tag:#Notes",
-      "color": {
-        "a": 1,
-        "rgb": 16739231
-      }
-    },
-    {
       "query": "tag:#Planes",
       "color": {
         "a": 1,
@@ -62,18 +55,32 @@
         "a": 1,
         "rgb": 11361494
       }
+    },
+    {
+      "query": "tag:#Notes/Courtney",
+      "color": {
+        "a": 1,
+        "rgb": 10106745
+      }
+    },
+    {
+      "query": "tag:#Notes",
+      "color": {
+        "a": 1,
+        "rgb": 15562950
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.6,
   "nodeSizeMultiplier": 0.99482649342418,
   "lineSizeMultiplier": 1.09420852479797,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.672991621488418,
   "repelStrength": 11.5672745194677,
   "linkStrength": 1,
   "linkDistance": 30,
   "scale": 0.56941489286676,
-  "close": true
+  "close": false
 }
