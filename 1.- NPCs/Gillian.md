@@ -2,8 +2,8 @@
 Location: Willowfey
 State: Alive
 Alignment: Bestie
+tags: NPC
 ---
-#NPC
 # Gillian Burnham
 [[Bo Burnham]]'s noble brother. He employed the [[0.- Besties|besties]] for protection and to search for [[5.- Artifacts|relics]] after he found out his brother was a [[Godseekers|Godseeker]] and he could be their next target.
 

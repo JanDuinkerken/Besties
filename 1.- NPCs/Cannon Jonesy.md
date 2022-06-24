@@ -3,8 +3,8 @@ aliases: Cannon, Jonesy
 Location: The Highlands
 State: Alive
 Alignment: Anti-Bestie
+tags: NPC
 ---
-#NPC
 # Cannon Jonesy
 [[Giddyan]]'s father, thought dead by him since he escaped the village after it had been raided by bandits.
 

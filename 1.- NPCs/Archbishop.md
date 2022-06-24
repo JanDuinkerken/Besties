@@ -3,8 +3,8 @@ alias: Soren
 Location: New Dravania
 State: Dead
 Alignment: Anti-Bestie
+tags: NPC
 ---
-#NPC
 # Archbishop Soren XVII
 [[Levi]]'s father.
 

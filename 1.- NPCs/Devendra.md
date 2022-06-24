@@ -4,9 +4,8 @@ Race: Human
 Location: Solus
 State: Dead
 Alignment: Bestie
+tags: NPC, Besties
 ---
-#Besties 
-#NPC
 # Devendra Montague
 Devendra Montague was a 21 year old [[human]], 5'7'' with pale skin with freckles and red hair.
 

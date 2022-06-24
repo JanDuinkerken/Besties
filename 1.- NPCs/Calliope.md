@@ -2,6 +2,6 @@
 State: Alive
 Alignment: Bestie
 Location: The Feywild
+tags: NPC
 ---
-#NPC
 # Calliope

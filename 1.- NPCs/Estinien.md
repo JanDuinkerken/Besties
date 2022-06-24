@@ -2,8 +2,8 @@
 State: Alive
 Alignment: Anti-Bestie
 Location: Valeran
+tags: NPC
 ---
-#NPC
 # Estinien
 [[Zion]]
 

@@ -2,8 +2,8 @@
 Location: Solus
 State: Alive
 Alignment: Bestie
+tags: NPC
 ---
-#NPC
 # Clarabelle Viridi
 Clarabelle Viridi is a 21 year old Fauna [[Fey]]. She is 5'3 with brown hair usually in a ponytail and tan skin with white freckles.
 
