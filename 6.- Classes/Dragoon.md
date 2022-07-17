@@ -1,16 +1,16 @@
 ---
 ---
 # Dragoon
-An Elezen man stands before a fierce dragon, it roars out and begins to take off in order to gain the advantage. With a massive leap the man lands atop the dragon and forces it back to the ground, creating an opening for his allies.
+An [[Elezen]] man stands before a fierce [[dragon]], it roars out and begins to take off in order to gain the advantage. With a massive leap the man lands atop the [[dragon]] and forces it back to the ground, creating an opening for his allies.
 
 A Lalafelian cloaked in scale mail whirl's their spear around a cluster of enemies keeping them at bay. When the time is right they unleash a plume of fiery breath from beneath their helm, singing their targets.
 
 A Firbolg woman runs and leaps high into the sky, magical wings forming on her body. With grace, she travels the currents of the wind, happily flying about as she exercises her new found freedom.
 
-These fearless warriors stand against dragons, giants, fiends and any other threats who would raise a hand against their homelands. Dragoons use their command of both the sky and ground to strike down their foes with deadly strikes.
+These fearless warriors stand against dragons, [[giants]], fiends and any other threats who would raise a hand against their homelands. Dragoons use their command of both the sky and ground to strike down their foes with deadly strikes.
 
 ## Dragonbane
-The Dragoon was a soldier born out of need in a distant land. Their homeland has been locked in a war against dragon kind for hundreds of years, leading to their soldiers to specialize in battling back against dragons. Their most notable ability is the Dragoon Jump, which is powered by a magical gem each Dragoon receives upon completing their basic training.
+The Dragoon was a soldier born out of need in a distant land. Their homeland has been locked in a war against [[dragon]] kind for hundreds of years, leading to their soldiers to specialize in battling back against dragons. Their most notable ability is the Dragoon Jump, which is powered by a magical gem each Dragoon receives upon completing their basic training.
 
 ## Masters of the Sky
 The Dragoons have been blessed with the ability to soar high into the air like those they have taken up arms to destroy. These warriors are able to crash down from the sky using their weapons and body weight to drive any skyborn into the ground, or cause great damage to those already on land. Wings will not grant you safety from a Dragoon.
