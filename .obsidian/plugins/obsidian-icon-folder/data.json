@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasSpaghettiMonsterFlying",
-      "FasCloudSunRain",
-      "FasGhost",
+      "FasLocationDot",
+      "RiMapPin2Fill",
+      "FarHandshake",
       "FasFeatherPointed",
-      "FarHandshake"
+      "FasGhost"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,7 @@
   "4.- Deities": "FasCross",
   "4.- Deities/Spirits": "FasGhost",
   "4.- Deities/Gods": "FasCloudSunRain",
-  "4.- Deities/Celestials": "FarSun"
+  "4.- Deities/Celestials": "FarSun",
+  "2.- Planes/The Labyrinth of Winds": "FasLocationDot",
+  "2.- Planes/Untitled": "FasLocationDot"
 }
