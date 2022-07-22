@@ -1,7 +1,7 @@
 ---
 State: Alive
 Alignment: Bestie
-Location: New Dravania
+Location: Willowfey
 tags: NPC
 ---
 # Tooth

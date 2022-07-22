@@ -1,6 +1,6 @@
 ---
 Location: The Feywild
 Alignment: 
-State: Dead
+State: 
 tags: NPC
 ---

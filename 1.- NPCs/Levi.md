@@ -1,7 +1,7 @@
 ---
 alias: Levian
 Location: New Dravania
-State: Alive
+State: Dead
 Alignment: Bestie
 tags: NPC
 ---
